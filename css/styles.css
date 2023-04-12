@@ -1,0 +1,47 @@
+@font-face {
+    src: url(fonts/Roboto-Regular.ttf); font-family: roboto;
+}
+body{
+    background-color: antiquewhite;
+}
+.container{
+    background-color: blueviolet;
+}
+h3{color: black;
+font-weight: 600;
+font-size: 25px;}
+
+.navbar{
+    border: 1px solid;
+    display: inline;
+    margin-left: 1050px;
+    background-color: blue;
+    color: black;
+    font-weight: 200;
+}
+ul{ display: inline;}
+li{
+    padding: 5px;
+    display: inline;}
+
+body { color: blue;
+font-size: 12px;
+line-height: 30px;
+font-family: roboto;
+text-align: justify;
+}
+
+h1 {color: black;
+text-align: center;
+}
+
+h2{ color: black;
+text-align: center;}
+
+article{color: blueviolet;
+font-style: italic;}
+
+.location{color: brown;
+font-weight: bold;}
+
+
